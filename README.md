@@ -81,9 +81,9 @@
 Suricata:
 
 Сначала перебор работал:
-<img src = "img/img2.jpg" width = 100%>
+<img src = "img/img3-1.jpg" width = 100%>
 Потом забанился Fail2Ban и перестал (timeout)
-<img src = "img/img2.jpg" width = 100%>
+<img src = "img/img3-2.jpg" width = 100%>
 Fail2ban заблокировал подбор пароля:
 <img src = "img/img11.jpg" width = 100%>
 На атакующей машине перестал работать SSH:
